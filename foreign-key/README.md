@@ -1,6 +1,6 @@
 # Foreign Key
 
-**🔗 Problem Link:** [View on NeetCode](https://neetcode.io/problems/sql-foreign-key/question)
+**🔗 Problem Link:** [View on NeetCode](https://neetcode.io/problems/sql-foreign-key/solution)
 
 ---
 
