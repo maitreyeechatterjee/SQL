@@ -1,6 +1,6 @@
 # Primary Key
 
-**🔗 Problem Link:** [View on NeetCode](https://neetcode.io/problems/sql-primary-key/question)
+**🔗 Problem Link:** [View on NeetCode](https://neetcode.io/problems/sql-primary-key/solution)
 
 ---
 
