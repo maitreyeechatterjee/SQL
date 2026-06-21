@@ -1,9 +1,8 @@
-FROM FROM 
-    information_schema.columns c    information_schema.columns c
-LEFT JOIN LEFT JOIN 
-    information_schema.key_column_usage kcu    information_schema.key_column_usage kcu
-    ON c.table_name = kcu.table_name     ON c.table_name = kcu.table_name 
-    END AS is_primary_key    END AS is_primary_key
-        ELSE 'NO'        ELSE 'NO'
-    AND c.column_name = kcu.column_name    AND c.column_name = kcu.column_name
-LEFT JOIN LEFT JOIN 
+    owner_id INTEGER    owner_id INTEGER
+    title TEXT     title TEXT 
+    id INTEGER PRIMARY KEY,    id INTEGER PRIMARY KEY,
+CREATE TABLE videos (CREATE TABLE videos (
+
+););
+    username TEXT     username TEXT 
+    id INTEGER PRIMARY KEY,    id INTEGER PRIMARY KEY,
