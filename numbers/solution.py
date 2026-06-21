@@ -1,0 +1,25 @@
+CREATE TABLE  bank_accounts (CREATE TABLE  bank_accounts (
+
+
+
+
+
+
+
+-- Do not modify below this line ---- Do not modify below this line --
+INSERT INTO bank_accounts (id, balance, interest_rate, number_of_owners) VALUESINSERT INTO bank_accounts (id, balance, interest_rate, number_of_owners) VALUES
+    (1, 123451234512345123.45, 123.45, 1);    (1, 123451234512345123.45, 123.45, 1);
+
+SELECT SELECT 
+    ba.*,    ba.*,
+    (SELECT STRING_AGG(column_name || ' ' || data_type || CASE WHEN numeric_precision IS NOT NULL THEN '(' || numeric_precision || ',' || numeric_scale || ')' ELSE '' END, ', ')    (SELECT STRING_AGG(column_name || ' ' || data_type || CASE WHEN numeric_precision IS NOT NULL THEN '(' || numeric_precision || ',' || numeric_scale || ')' ELSE '' END, ', ')
+     FROM information_schema.columns      FROM information_schema.columns 
+     WHERE table_name = 'bank_accounts') AS column_types     WHERE table_name = 'bank_accounts') AS column_types
+FROM FROM 
+    id BIGINT PRIMARY KEY,    id BIGINT PRIMARY KEY,
+););
+    balance NUMERIC (20,2),    balance NUMERIC (20,2),
+    interest_rate NUMERIC (5,2),    interest_rate NUMERIC (5,2),
+
+
+    number_of_owners SMALLINT    number_of_owners SMALLINT
