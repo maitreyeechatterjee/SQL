@@ -1,6 +1,6 @@
 # Insert Arrays
 
-**🔗 Problem Link:** [View on NeetCode](https://neetcode.io/problems/sql-insert-array/question)
+**🔗 Problem Link:** [View on NeetCode](https://neetcode.io/problems/sql-insert-array/solution)
 
 ---
 
