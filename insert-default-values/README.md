@@ -1,6 +1,6 @@
 # Insert Default Values
 
-**🔗 Problem Link:** [View on NeetCode](https://neetcode.io/problems/sql-insert-default-values/question)
+**🔗 Problem Link:** [View on NeetCode](https://neetcode.io/problems/sql-insert-default-values/solution)
 
 ---
 
