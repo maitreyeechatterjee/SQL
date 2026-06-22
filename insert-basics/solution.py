@@ -5,18 +5,4 @@ CREATE TABLE bank_accounts (CREATE TABLE bank_accounts (
     account_type account_type,    account_type account_type,
     balance INTEGER    balance INTEGER
 ););
--- Do not modify above this line ---- Do not modify above this line --
-
-
-
-
-
-
-
-
-
-
--- Do not modify below this line ---- Do not modify below this line --
 INSERT INTO bank_accounts (id, account_type, balance)INSERT INTO bank_accounts (id, account_type, balance)
-SELECT * FROM bank_accounts;SELECT * FROM bank_accounts;
-VALUES (1, 'checking', '1000'), (2, 'savings', '2000'), (3, 'cd', '3000'), (4, 'money_market', '4000');VALUES (1, 'checking', '1000'), (2, 'savings', '2000'), (3, 'cd', '3000'), (4, 'money_market', '4000');
