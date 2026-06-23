@@ -6,7 +6,7 @@ Language: python
 Solution by NeetCode GitHub Pusher
 """
 
-variable = "hello"variable = "hello"
+variable = "10"variable = "10"
 
 # Don't modify the code below this line# Don't modify the code below this line
 print(variable)print(variable)
