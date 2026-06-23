@@ -1,6 +1,6 @@
 # Variable Types
 
-**🔗 Problem Link:** [View on NeetCode](https://neetcode.io/problems/python-variable-types/question)
+**🔗 Problem Link:** [View on NeetCode](https://neetcode.io/problems/python-variable-types/solution)
 
 ---
 
