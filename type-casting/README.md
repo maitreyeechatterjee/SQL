@@ -1,6 +1,6 @@
 # Type Casting
 
-**🔗 Problem Link:** [View on NeetCode](https://neetcode.io/problems/python-type-casting/question)
+**🔗 Problem Link:** [View on NeetCode](https://neetcode.io/problems/python-type-casting/solution)
 
 ---
 
