@@ -1,0 +1,10 @@
+"""
+Problem: Empty Variable
+URL: https://neetcode.io/problems/python-empty-variable/solution
+Language: python
+
+Solution by NeetCode GitHub Pusher
+"""
+
+var = Nonevar = None
+print(type(var))print(type(var))
