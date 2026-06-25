@@ -1,6 +1,6 @@
 # Select Order By
 
-**🔗 Problem Link:** [View on NeetCode](https://neetcode.io/problems/sql-select-order-by/question)
+**🔗 Problem Link:** [View on NeetCode](https://neetcode.io/problems/sql-select-order-by/solution)
 
 ---
 
