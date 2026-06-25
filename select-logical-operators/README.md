@@ -1,6 +1,6 @@
 # Select Logical Operators
 
-**🔗 Problem Link:** [View on NeetCode](https://neetcode.io/problems/sql-select-logical-operators/question)
+**🔗 Problem Link:** [View on NeetCode](https://neetcode.io/problems/sql-select-logical-operators/solution)
 
 ---
 
