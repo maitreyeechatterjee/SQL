@@ -1,6 +1,6 @@
 # Update Returning
 
-**🔗 Problem Link:** [View on NeetCode](https://neetcode.io/problems/sql-update-returning/question)
+**🔗 Problem Link:** [View on NeetCode](https://neetcode.io/problems/sql-update-returning/solution)
 
 ---
 
