@@ -1,6 +1,6 @@
 # Select Limit
 
-**🔗 Problem Link:** [View on NeetCode](https://neetcode.io/problems/sql-select-limit/question)
+**🔗 Problem Link:** [View on NeetCode](https://neetcode.io/problems/sql-select-limit/solution)
 
 ---
 
