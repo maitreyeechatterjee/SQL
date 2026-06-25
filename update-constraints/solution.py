@@ -4,5 +4,5 @@
 
 
 UPDATE bank_accountsUPDATE bank_accounts
-SET balance = 0, name = 'Anonymous', account_status = 'VIP'SET balance = 0, name = 'Anonymous', account_status = 'VIP'
+SET balance = 0, name = 'Anonymous'SET balance = 0, name = 'Anonymous'
 RETURNING *;RETURNING *;
