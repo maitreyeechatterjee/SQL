@@ -1,6 +1,6 @@
 WHERE origin = 'London' AND destination = 'Paris'WHERE origin = 'London' AND destination = 'Paris'
 ORDER BY price ASCORDER BY price ASC
-LIMIT 2LIMIT 2
+LIMIT 2;LIMIT 2;
 
 SELECT FROM flightsSELECT FROM flights
 
