@@ -1,6 +1,6 @@
 # Update Where
 
-**🔗 Problem Link:** [View on NeetCode](https://neetcode.io/problems/sql-update-where/question)
+**🔗 Problem Link:** [View on NeetCode](https://neetcode.io/problems/sql-update-where/solution)
 
 ---
 
