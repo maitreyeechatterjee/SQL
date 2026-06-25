@@ -4,5 +4,5 @@
 (12, 'Los Angeles', 'USA');(12, 'Los Angeles', 'USA');
 -- Do not modify above this line. ---- Do not modify above this line. --
 
-SELECT country FROM cities;SELECT country FROM cities;
+SELECT DISTINCT country FROM cities;SELECT DISTINCT country FROM cities;
 
