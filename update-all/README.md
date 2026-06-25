@@ -1,6 +1,6 @@
 # Update All
 
-**🔗 Problem Link:** [View on NeetCode](https://neetcode.io/problems/sql-update-all/solution)
+**🔗 Problem Link:** [View on NeetCode](https://neetcode.io/problems/sql-update-all/question)
 
 ---
 
