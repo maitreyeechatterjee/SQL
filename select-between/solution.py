@@ -4,4 +4,4 @@
 (21, 'Chengdu', 'China', 14040000);(21, 'Chengdu', 'China', 14040000);
 -- Do not modify above this line. ---- Do not modify above this line. --
 
-SELECT DISTINCT countries FROM cities WHERE population BETWEEN 1000000 and 10000000; SELECT DISTINCT countries FROM cities WHERE population BETWEEN 1000000 and 10000000; 
+SELECT DISTINCT country FROM cities WHERE population BETWEEN 1000000 and 10000000; SELECT DISTINCT country FROM cities WHERE population BETWEEN 1000000 and 10000000; 
