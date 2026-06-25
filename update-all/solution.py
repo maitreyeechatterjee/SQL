@@ -1,6 +1,6 @@
 
 UPDATE students UPDATE students 
-SET age = 'NULL';SET age = 'NULL';
+SET age = NULL;SET age = NULL;
 
 
 
