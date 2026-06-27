@@ -1,4 +1,3 @@
-););
 
 CREATE TABLE enrollments (CREATE TABLE enrollments (
     id INTEGER PRIMARY KEY,    id INTEGER PRIMARY KEY,
@@ -14,12 +13,10 @@ INSERT INTO enrollments (id, student_id, class_id) VALUES (1, 1, 1);INS
 
 DELETE FROM classes;DELETE FROM classes;
 
-DELETE FROM enrollments;DELETE FROM enrollments;
-
 DELETE FROM students;DELETE FROM students;
+
+DELETE FROM enrollments;DELETE FROM enrollments;
 
 
 -- Do not modify below this line. ---- Do not modify below this line. --
 SELECT * FROM enrollments;SELECT * FROM enrollments;
-
-    name TEXT    name TEXT
