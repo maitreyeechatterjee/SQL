@@ -2,7 +2,7 @@
 -- Do not modify above this line. ---- Do not modify above this line. --
 
 DELETE FROM students DELETE FROM students 
-WHERE age <18 OR , name = 'A%';WHERE age <18 OR , name = 'A%';
+WHERE age < 18 OR , name = 'A%';WHERE age < 18 OR , name = 'A%';
 
 
 
