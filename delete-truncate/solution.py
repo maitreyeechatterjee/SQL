@@ -2,6 +2,6 @@
          (3, 'Charlie');         (3, 'Charlie');
 -- Do not modify above this line. ---- Do not modify above this line. --
 
-DROP TABLE students;DROP TABLE students;
+DELETE TABLE students;DELETE TABLE students;
 
 
