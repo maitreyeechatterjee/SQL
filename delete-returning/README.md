@@ -1,6 +1,6 @@
 # Delete Returning
 
-**🔗 Problem Link:** [View on NeetCode](https://neetcode.io/problems/sql-delete-returning/question)
+**🔗 Problem Link:** [View on NeetCode](https://neetcode.io/problems/sql-delete-returning/solution)
 
 ---
 
