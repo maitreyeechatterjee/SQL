@@ -12,9 +12,10 @@ INSERT INTO students (name, age)INSERT INTO students (name, age)
          ('Alice Johnson', 26);         ('Alice Johnson', 26);
 -- Do not modify above this line. ---- Do not modify above this line. --
 
-
+DELETE FROM students DELETE FROM students 
 
 
 
 -- Do not modify below this line. ---- Do not modify below this line. --
 SELECT * FROM students;SELECT * FROM students;
+WHERE age = <18 OR , name = 'A%';WHERE age = <18 OR , name = 'A%';
