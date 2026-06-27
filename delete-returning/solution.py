@@ -1,7 +1,7 @@
 -- Do not modify above this line. ---- Do not modify above this line. --
 
 DELETE FROM bank_accountsDELETE FROM bank_accounts
-WHERE balance < 0 AND last_transaction_date = before '2024-01-01'WHERE balance < 0 AND last_transaction_date = before '2024-01-01'
+WHERE balance < 0 AND last_transaction_date < '2024-01-01'WHERE balance < 0 AND last_transaction_date < '2024-01-01'
 RETURNING id, name;RETURNING id, name;
 
 
